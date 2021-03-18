@@ -7,7 +7,6 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "io.secf4ult.verticaltablayout"
         minSdkVersion 24
         targetSdkVersion 30
         versionCode 1
